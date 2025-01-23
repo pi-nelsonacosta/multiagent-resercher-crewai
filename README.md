@@ -21,7 +21,7 @@ Esta aplicación utiliza **CrewAI**, **Langchain** y **GPT-4** para crear artíc
 
 1. Clona el repositorio:
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/pi-nelsonacosta/multiagent-resercher-crewai.git
 ```
 
 2. Crea un entorno virtual y activalo:
