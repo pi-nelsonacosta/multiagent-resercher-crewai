@@ -49,8 +49,6 @@ streamlit run multi_agent_researcher.py
 
 **Langchain:** Integración con modelos de lenguaje
 
-**OpenAI GPT-4:** Modelo de lenguaje avanzado
-
 **Markdown:** Formateo estructurado de contenido
 
 📋 Requisitos

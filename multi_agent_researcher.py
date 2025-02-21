@@ -132,4 +132,4 @@ if st.button("Generar artículo"):
             st.markdown(resultado)
 
 st.markdown("---")
-st.markdown("Desarrollado con Langchain, CrewAI y OpenAI")
+st.markdown("Desarrollado con Langchain y CrewAI ")
